@@ -1,0 +1,25 @@
+{
+  "name": "tableprinter",
+  "version": "1.0.0",
+  "description": "A script that converts a data array into a table string",
+  "main": "tablePrinter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Rodríguez <pabloviolin8@gmail.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeLlamoPablo/tablePrinter.git"
+  },
+  "keywords": [
+    "table",
+    "printer",
+    "command",
+    "line"
+  ],
+  "bugs": {
+    "url": "https://github.com/MeLlamoPablo/tablePrinter/issues"
+  },
+  "homepage": "https://github.com/MeLlamoPablo/tablePrinter#readme"
+}
