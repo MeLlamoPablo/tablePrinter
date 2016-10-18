@@ -3,6 +3,8 @@ var titleRowSeparator = '=';
 var columnSeparator = '|';
 
 /**
+ * @deprecated see README.md
+ *
  * Prints data in a nicely formatted table. The data needs to be an array of
  * objects. Each object represents a row, and must have each column defined.
  *

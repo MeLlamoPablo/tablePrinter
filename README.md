@@ -1,3 +1,10 @@
+# Deprecated warning
+
+`tablePrinter` was a fun little experiment, but it has very basic and limited functionality, and 
+it is no longer being manatained. If you need something like it, you should check out 
+[cli-table2](https://github.com/jamestalmage/cli-table2) or [table](https://www.npmjs
+.com/package/table).
+
 # tablePrinter
 
 Turns this:
@@ -26,7 +33,7 @@ Into this:
 | 2  | bar      | foo      |
 ```
 
-### Usage
+## Usage
 
 ```sh
 npm install --save tableprinter
